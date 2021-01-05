@@ -1,6 +1,8 @@
-import java.util.*;
+package demo01;
 
-public class Main{
+import java.util.Scanner;
+
+public class Demo09X {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
